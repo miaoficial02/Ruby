@@ -59,7 +59,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
+git clone https://github.com/miaoficial02/Ruby && cd Ruby
 ```
 
 ```bash
@@ -109,7 +109,7 @@ npm start
   <summary><b>🔁 Cómo reiniciarlo en Termux</b></summary>
 
 ```bash
-cd Ruby-Hoshino-Bot && npm start
+cd Ruby&& npm start
 ```
 
 </details>
@@ -122,7 +122,7 @@ cd Ruby-Hoshino-Bot && npm start
   <summary><b>🔑 edita el archivo y Agrega tu número como Owner</b></summary>
 
 ```bash
-cd Ruby-Hoshino-Bot
+cd Ruby
 ```
 
 ```bash
